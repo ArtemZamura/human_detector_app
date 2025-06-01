@@ -9,6 +9,10 @@ import ctypes
 import os
 
 def greet_user():
+
+
+    print("Artem PIDOR!!!")
+
     print("Hello! I'm your assistant bot.")
     print("I can help you with the following commands:")
     print("- time")
